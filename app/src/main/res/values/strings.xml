@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">MNS Help App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="create_your_own_event">Create Your Own Event</string>
+    <string name="clementi">Clementi</string>
+    <string name="singapore">(Singapore)</string>
+    <string name="special_screenings">Special Screenings</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="about_us">About Us</string>
+    <string name="help">Help</string>
+    <string name="copyright_gdc_technologies_2018_all_right_reserved">© Copyright GDC Technology 2019, All Right
+        Reserved.
+    </string>
+    <string name="hello_stranger">Hello Friend!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Slash">|</string>
+    <string name="sign_in">Sign In</string>
+    <string name="my_account">My Account</string>
+    <string name="my_special_screening">My Special Screening</string>
+    <string name="notification">Notification</string>
+    <string name="my_transactions">My Transactions</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="offers_promotions"><![CDATA[Offers & Promotions]]></string>
+    <string name="justice_league">Justice League</string>
+    <string name="english">English</string>
+    <string name="slash">|</string>
+    <string name="_90_minutes">90 Minutes</string>
+    <string name="_2018">2018</string>
+    <string name="zach_snyder">Zach Snyder</string>
+    <string name="pick_a_cinema">Pick a Cinema</string>
+    <!--<string name="pick_a_day_time"><![CDATA[Pick a Day & Time]]></string>-->
+    <string name="trailers_clips"><![CDATA[Trailers & Clips]]></string>
+    <string name="storyline">Storyline</string>
+
+    <string name="imdb">IMDB</string>
+
+    <string name="directed_by">Directed By</string>
+    <string name="cast">Cast</string>
+    <string name="capital_theater">Capital Theater</string>
+    <string name="_13_stamford_street">13, Stamford Street</string>
+    <string name="screening">Screening</string>
+    <string name="options">Options</string>
+    <string name="swipe_up_for_special_screenings">Click For Special Screenings</string>
+    <string name="pick_a_day_time"><![CDATA[Pick a Day & Time]]></string>
+    <string name="_2d">2D</string>
+    <string name="_8_30">8:30</string>
+    <string name="pm">PM</string>
+    <string name="late_night">Late Night</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="enter_your_email_id">Enter Your Email Address</string>
+    <string name="or">OR</string>
+    <string name="register_with_facebook">Register With Facebook</string>
+    <string name="enter_your_email_id_mobile_number">Enter Your Email Address</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgot_your_password_did_you">Forgot Your Password?</string>
+    <string name="reset_it">Resend it.</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="register_with_google">Register With Google</string>
+    <string name="title_activity_auth_">Auth_Activity</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="my_special_screenings">My Special Screenings</string>
+    <string name="pulp_fiction">Pulp Fiction</string>
+    <string name="_120_minutes">120 Minutes</string>
+    <string name="_1994">1994</string>
+    <string name="q_tarantino">Q. Tarantino</string>
+    <string name="september">September</string>
+    <string name="_04">04</string>
+
+    <string name="_3_30">3:30</string>
+
+    <string name="confirmed">CONFIRMED</string>
+    <string name="seats_sold">SEATS SOLD</string>
+    <string name="_25">25+</string>
+    <string name="screening_available_in">Screenings for this movie available in</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="event_expires">Event Expires</string>
+    <string name="september_03_2018_monday">September 03,2018 (Monday)</string>
+    <string name="people_going">People Going</string>
+    <string name="resend_email">Resend Email |</string>
+    <string name="resend_m_tickets">Resend M-Tickets</string>
+    <string name="my_notifications">My Notifications</string>
+    <string name="september_03_2018_01_30pm">Sept 03,2018 | 01:30PM</string>
+    <string name="show_all">Show All</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="_4_tickets_booked">4 Tickets Booked</string>
+    <string name="total_amount_payable">You need to pay:</string>
+    <string name="wallet_amt">Wallet Amount:</string>
+    <string name="send_cash">Send Cash</string>
+    <string name="other_payment_modes">PAYMENT MODES</string>
+    <string name="debit_credit_card">Debit / Credit Card</string>
+    <string name="your_details">YOUR DETAILS</string>
+    <string name="promo_code">PROMO CODE</string>
+    <string name="apply">Apply</string>
+
+    <string name="didn_t_receive_the_code_yet">Didn\'t receive the code yet?</string>
+    <string name="seats">Seats</string>
+    <string name="l_1_l_2_l_3_l_4">L-1,L-2,L-3,L-4</string>
+    <string name="amount">Amount</string>
+    <string name="_20">$200</string>
+    <string name="choose_any_filter">Choose any filter:</string>
+    <string name="show_upcoming">Show Upcoming</string>
+    <string name="show_confirmed_events_only">Show Confirmed Events Only</string>
+    <string name="show_cancelled_events_only">Show Cancelled Events Only</string>
+    <string name="pick_seats">Pick Your Seats</string>
+    <string name="confirm_pick_seats">Confirm</string>
+    <string name="confirm_your_details">Confirm Your Details</string>
+    <string name="_28">28</string>
+    <string name="out_of_100_seats_sold">OUT OF 100 SEATS SOLD</string>
+    <string name="select_any_one_of_these">Select any one of these:</string>
+    <string name="upcoming_special_screenings">Upcoming Special Screenings</string>
+    <string name="create_your_own_screening">Create Your Own Screening</string>
+    <string name="_2013_pg13">2013 | PG13</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="thank_you_msg_one">You\'ve successfully booked tickets for</string>
+
+
+    <string name="only_6_seats_required">Only 6 Seats Required</string>
+    <string name="hey_but_what_if_the_screening_doesn_t_get_confirmed">Hey! But what if the screening doesn\'t get
+        confirmed?
+    </string>
+    <string name="learn_more">Learn More ></string>
+    <string name="get_ticket">Get Tickets ></string>
+
+    <string name="screen">Screen</string>
+    <string name="choose_a_screening_type">Choose a Screening Type</string>
+
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="selected">Selected</string>
+
+    <string name="book_personal_tickets">Book personal\ntickets only</string>
+    <string name="book_mini_seats">Book Minimum\nSeats</string>
+    <string name="minimum_25_book">(Minimum 25 Booking)</string>
+    <string name="review_screeing">Review Screening</string>
+
+    <string name="facebook_app_id">2251915134834692</string>
+
+
+    <string name="create_an_account">Create an Account</string>
+    <string name="in_pass_err">Please fill your password</string>
+    <string name="in_phone_err">Please enter your phone number</string>
+    <string name="in_mail_err">Please enter valid email address</string>
+    <string name="in_pass_weak">Password must be minimum 6 characters</string>
+    <string name="in_phone_invalid">Please enter valid phone number</string>
+    <string name="enter_username">Enter Your Username</string>
+    <string name="in_username_err">Please Enter Username</string>
+    <string name="server_client_id">1088834838466-lnpa0l4m3d8figo8ivo1jr6f35eiu77f.apps.googleusercontent.com</string>
+    <string name="home">Home</string>
+    <string name="verfication">verification</string>
+    <string name="total_balance">Registration done!</string>
+    <string name="logout">Logout</string>
+    <string name="edit">(Edit)</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="select_qty">Please Select Quantity</string>
+    <string name="how_many_ticktes">How many tickets?</string>
+    <string name="confirm">Confirm</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="mobile">Enter Your Mobile Number</string>
+    <string name="mobilee">Mobile</string>
+    <string name="gogo_cinemas">Gogo Cinema</string>
+    <string name="opt_verification">OTP Verification</string>
+    <string name="quit_booking_title">Quit Booking</string>
+    <string name="quit_booking_msg">Are you sure you want to quit from the booking process?</string>
+    <string name="continueeSmall">Continue</string>
+    <string name="quit">Quit</string>
+    <string name="payment_method_small">Payment Method</string>
+    <string name="amount_payable">AMOUNT PAYABLE</string>
+    <string name="total_booking_cost">Total booking cost</string>
+    <string name="select_payment_method">Select Payment Method</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="offline_msg">Hey, it looks like you are offline.</string>
+    <string name="retry">retry</string>
+    <string name="show_times">Show Times</string>
+    <string name="seats_selected">Seats Selected</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="not_confirmed">NOT CONFIRMED</string>
+    <string name="tv_d">Christmas special</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="alfa_pass_msg">* Password should have a minimum of 6 characters.</string>
+    <string name="almost_there">You\'re almost there! Please verify your contact info and enter the 4 digit code you
+        have just received via SMS.
+    </string>
+    <string name="fantastic">Fantastic!\nTickets Booked.</string>
+    <string name="thank_you_msg_three">The movie will be confirmed as soon as</string>
+    <string name="thank_you_msg_four">More seats are booked. We\'ll notify you via email and SMS as soon as this
+        happens.
+    </string>
+    <string name="thank_you_msg_nofty">We\'ll notify you via email and SMS as soon as this happens.</string>
+    <string name="my_payments">My Payments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_cash">Add Cash</string>
+    <string name="john_doe">John Doe</string>
+    <string name="read_more">read more</string>
+    <string name="qr_code_msg">Use this QR Code to Enter the Cinema</string>
+    <string name="thank_you_msg">Thank you for your booking.</string>
+    <string name="welcome_msg">You are welcome to create your own screening.</string>
+    <string name="total_amount_payed">Total Amount:</string>
+    <string name="payment_method">Payment Method:</string>
+
+    <string name="ticket_id">Ticket Id:</string>
+    <string name="your_current_balance">Your current balance</string>
+    <string name="enter_amt_msg">Enter amount to be added in wallet</string>
+    <string name="why_use_gogo">Why use the Gogo Wallet you ask?</string>
+    <string name="friends_mobile">enter your friend\'s email address</string>
+    <string name="please_enter_your_freinds">(Please note your friend must be a registered user with Gogo Cinema.)
+    </string>
+    <string name="enter_amt">Enter amount to be added in wallet</string>
+    <string name="add_personal_message">Add a personal message</string>
+    <string name="recents">Recents</string>
+    <string name="add_to_wallet">Add to wallet</string>
+    <string name="to">To</string>
+    <string name="status">Status</string>
+    <string name="comment">Comment</string>
+    <string name="pick_show_time">Pick a show time :</string>
+    <string name="pick_a_date">Pick your date</string>
+    <string name="search_hint">Search by movie title, actor, genre, language.</string>
+    <string name="my_profile">My Profile</string>
+    <string name="no_movie_found">No movie found</string>
+    <string name="total_result">Total Results:</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="how_many_seats">HOW MANY SEATS?</string>
+    <string name="please_select_one_pay">Please select one of the payment options.</string>
+    <string name="i_agree_to_all_terms_conditions"><![CDATA[]]></string>
+    <string name="promotion_code_hint">Apply Your Promo Code</string>
+    <string name="terms_and_promotions"><![CDATA[Terms & Promotions]]></string>
+    <string name="in_amt">Please fill up the amount to transfer</string>
+    <string name="in_amt_err">Amount must be less than or equal to 4 digits</string>
+    <string name="seats_booked">Seats Booked:</string>
+    <string name="apply_promo_msg">Apply promo code to avail special discounts.</string>
+    <string name="almost_there_title">ALMOST THERE!</string>
+    <string name="almost_there_msg">Please enter the 4 digit code received on your registered mobile number and email
+        address.
+    </string>
+    <string name="resend_msg">We have sent the code again to your registered mobile number.</string>
+    <string name="movie">Movie</string>
+    <string name="cinema">Cinema</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="amount_payable_small">Amt. Payable</string>
+    <string name="tickets_booked">Tickets Booked</string>
+    <string name="dash">
+        ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    </string>
+    <string name="booking_msg">Use the booking ID to get your tickets at the cinema</string>
+    <string name="date_and_time"><![CDATA[Date & Time]]></string>
+    <string name="private_screening">Private\nScreening</string>
+    <string name="private_screening_two">Private Screening</string>
+    <string name="book_now">Book Now</string>
+    <string name="select_country_code">Select Region</string>
+    <string name="feedback">Feedback</string>
+    <string name="enter_feed_back">Please Fill In Your Feedback</string>
+    <string name="add_sceenshot">Add Screenshot (Optional)</string>
+    <string name="in_feeds_err">Please Fill In Your Feedback</string>
+    <string name="reset_password_msg">Please enter your email address to send the verification code on your mail.
+    </string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="confirm_pass_message">Please enter your new password.</string>
+    <string name="in_pass_err_confirm">Please fill up confirm password</string>
+    <string name="in_pass_match_err">Password and Confirm Password do not match</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="r_it">Reset it.</string>
+    <string name="otp_success">Awesome! Your Password has been reset successfully.</string>
+    <string name="country_select">Select Country</string>
+    <string name="you_are_in">You are in:</string>
+    <string name="change_country">Change Country</string>
+    <string name="notification_description">Please wait your app is installing</string>
+    <string name="in_pass_err_alfa">Password must be alpha numeric</string>
+    <string name="in_login_err">You have already created an account. Please Sign In from the menu.</string>
+    <string name="terms_and_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="no_shows_available">Sorry, No shows available for today.</string>
+    <string name="show_type">Show Type:</string>
+    <string name="show_status">Show Status:</string>
+    <string name="booking_id">Booking ID:</string>
+    <string name="show_category">Show Category:</string>
+    <string name="resend_ticket">Resend Movie Ticket</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map">Map</string>
+    <string name="more">More</string>
+    <string name="worker">Woker</string>
+    <string name="police">Police</string>
+    <string name="hospital">Hospital</string>
+
+</resources>
